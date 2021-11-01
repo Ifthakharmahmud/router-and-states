@@ -1,0 +1,31 @@
+[
+    {
+        "id": "101",
+        "title": "Web Development",
+        "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+        "img": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
+        "price":"16000"
+    },
+    {
+        "id": "102",
+        "title": "The Complete Digital Marketing",
+        "description": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email,  Analytics & More!",
+        "img": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/03/24164357/iStock-974512548.jpg",
+        "price":"22000"
+    },
+    {
+        "id": "103",
+        "title": "Graphic Design Masterclass",
+        "description": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design",
+        "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/100616304/original/dadefa1a2630f939d771ab114da5381dd9b6eb22/create-any-kind-of-graphic-design-with-idea.jpg",
+        "price":"10000"
+    },
+    {
+        "id": "104",
+        "title": "English for Beginners",
+        "description": "English speaking course. 77 Hours of English language speaking, English listening practice. 1000 English language words",
+        "img": "https://www.internationalstudents.ie/sites/default/files/styles/traditional_television/public/media/images/2018-06/shutterstock_602226047.jpg",
+        "price":"5000"
+
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+      "id": "108",
+      "title": "Ultimate AWS Certified Solutions",
+      "description": "Pass the AWS Certified Solutions Architect Associate Certification SAA-C02.",
+      "img": "https://thehackernews.com/images/-FUIccE9oYYY/XIZCr3h3N3I/AAAAAAAAzes/iH2uYLKsQtoD2WSEeuF7NonYkqLwPVrFgCLcBGAs/s728-e100/AWS-certification-training-course.jpg",
+      "price":"11000"
+  },
+    {
+      "id": "107",
+      "title": "UX/UI Design Fundamentals",
+      "description": "Understanding Design at a deep level and strengthen your design skills. Best modern course for UX/UI Designer",
+      "img": "https://www.elegantthemes.com/blog/wp-content/uploads/2020/06/ux-ui-design-courses-bootcamps-featured-image-scaled.jpg",
+      "price":"18000"
+  },
+    {
+      "id": "106",
+      "title": "Modern Responsive Web Design",
+      "description": "How you can create 5 Different Responsive Mobile Ready websites CSS Grid CSS Flexbox Floats Plus",
+      "img": "https://cdn.hackernoon.com/images/1tjg32bo.jpg",
+      "price":"14000"
+  },
+  {
+    "id": "104",
+    "title": "English for Beginners",
+    "description": "English speaking course. 77 Hours of English language speaking, English listening practice. 1000 English language words",
+    "img": "https://www.internationalstudents.ie/sites/default/files/styles/traditional_television/public/media/images/2018-06/shutterstock_602226047.jpg",
+    "price":"5000"
+
+},
+    {
+      "id": "105",
+      "title": "Account Management for Beginners",
+      "description": "Practice  Relationship Management and Communication Strategies with Real World Scenarios",
+      "img": "https://lh3.googleusercontent.com/proxy/48zoEZBtfSwryEH2GeGd7PUuLJcXyTa5hmpcms5IvTFFVzPVTSSwyyJmjE1nskBEgPyfFKo4Q34I9EVAqHYN6dB8JJd2TpEFdQZbc3yorgduJTFKOr_K",
+      "price":"12000"
+  },
+    {
+      "id": "101",
+      "title": "Web Development",
+      "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+      "img": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
+      "price":"16000"
+  },
+  {
+      "id": "102",
+      "title": "The Complete Digital Marketing",
+      "description": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email,  Analytics & More!",
+      "img": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/03/24164357/iStock-974512548.jpg",
+      "price":"22000"
+  },
+  {
+      "id": "103",
+      "title": "Graphic Design Masterclass",
+      "description": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design",
+      "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/100616304/original/dadefa1a2630f939d771ab114da5381dd9b6eb22/create-any-kind-of-graphic-design-with-idea.jpg",
+      "price":"10000"
+  }
+  
+]
